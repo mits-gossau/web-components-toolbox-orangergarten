@@ -54,7 +54,7 @@
   --teaser-tile-figcaption-color: var(--color-secondary);
   --teaser-tile-h5-font-size:1.5em;
   --teaser-title-figcaption-background-color: var(--m-white);
-  --emotion-pictures-with-title-bg-line-height-secondary: unset;
+  --emotion-pictures-with-title-bg-line-height-secondary-custom: 1.4em;
   --hotspot-default-button-background-color-hover: #AACF80;
   --hotspot-default-button-background-color: #ff6600;
   --hotspot-picture-img-max-height: var(--image-hotspot-width);
