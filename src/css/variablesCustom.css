@@ -60,5 +60,5 @@
   --hotspot-picture-img-max-height: var(--image-hotspot-width);
   --hotspot-picture-img-width: var(--image-hotspot-width);
   --image-hotspot-width: 100vw;
-
+  --summary-display: block;
 }
